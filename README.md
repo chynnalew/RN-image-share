@@ -1,5 +1,5 @@
 # Image Share
-### A simple image sharing applcation
+### A simple image sharing application
 #### By: Chynna Lew
 
 <hr/>
